@@ -24,7 +24,7 @@ const app = createApp(App);
 ```javascript
 export const translator = appTranslator({
     locale: sessionStorage.lang || "en",
-    fallbackLocale: "en",
+    fallbackLocale: "fr",
     messages: messages
 });
 
