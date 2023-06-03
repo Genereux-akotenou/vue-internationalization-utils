@@ -2,7 +2,7 @@
 
 Vue Internationalization Utils is a lightweight utility for introducing language internationalization in Vue.js apps. It provides an alternative to vI18n, which can sometimes be difficult to install.
 
-* Sometimes we do not need a lot a dependencies in our project and when it comes easy to develop by ourselves it always better.
+* When it comes to developing a translation system in Vue, we may not always need to install a comprehensive package. In many cases, a few lines of code can suffice to achieve the desired functionality. This approach allows for a more lightweight and tailored solution, eliminating the need to include and manage a large package solely for translation purpose
 * Let go 😎😎😎
 
 ## Setup
